@@ -3,3 +3,6 @@ WhatsApp Costs Money: https://www.whatsapp.com/faq/en/android/23006692
 Telegram Privacy Policy: https://telegram.org/privacy
 Facebook Android Permissions: http://www.huffingtonpost.com/sam-fiorella/the-insidiousness-of-face_b_4365645.html
 Facebook Messenger and Contacts (context of Sex Work): http://turningtricksbreakingdicks.tumblr.com/post/106445675433/sex-workers-beware-of-the-facebook-messenger-app
+WhatsApp encryption: http://www.whatsapp.com/faq/general/21864047
+WhatsApp Privacy Policy: https://www.whatsapp.com/legal/
+Data harvesting via other apps permissions: http://dwaterson.com/2013/06/24/data-harvesting-by-malicious-android-apps/
